@@ -1,0 +1,72 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2EQObh43yjXwXu6TJTYSUfXgntb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EQOlsprbynZkrc4zwvgZTDIei2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Debug.Allow.Typing": "true",
+    "InstalledPluginsSearchHistory": ".net\n.ne\n.n\n.\nlicense",
+    "MarketplacePluginsSearchHistory": ".net",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Started.IDE.Build": "RD-222.3962.23",
+    "RunOnceActivity.se.text.search": "true",
+    "Tutorials.In.Recent.Projects.Disabled": "true",
+    "appcds.runOnSecondStart": "RD-222.3962.23-ab8e182700a31fb93a9d5df940732e1a2449a2704447da25d9cdd9f4a7799cbf",
+    "bundled.plugins.list.saved.version": "RD-222.3962.23",
+    "evlsprt3.222": "25",
+    "experimentalFeature.editor.reader.mode": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.disabled": "true",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "last_open_solution_path": "/home/gabriel/bambooleafwebapp/AGVwebAPP/WebApplication1",
+    "last_opened_file_path": "/bin/dotnet",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "RD-222.3962.23",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/bin/dotnet",
+      "/home/gabriel/bambooleafwebapp/AGVwebAPP/WebApplication1"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

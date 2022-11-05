@@ -1,0 +1,12 @@
+[2022-09-06 17:26:33.150] [exthost] [info] Extension host with pid 2151 started
+[2022-09-06 17:26:33.151] [exthost] [info] Skipping acquiring lock for /home/gabriel/.config/Code/User/workspaceStorage/f7eb7fff789a36617f3981c4a0ffa87a.
+[2022-09-06 17:26:33.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-06 17:26:33.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-09-06 17:26:33.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-06 17:26:33.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-06 17:26:33.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-06 17:26:33.355] [exthost] [info] Eager extensions activated
+[2022-09-06 17:26:33.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-06 17:26:33.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-07 07:48:20.759] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-09-07 07:48:20.770] [exthost] [info] Extension host with pid 2151 exiting with code 0

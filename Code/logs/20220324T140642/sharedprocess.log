@@ -1,0 +1,38 @@
+[2022-03-24 14:06:45.456] [sharedprocess] [info] Starting worker process with pid 33192 (type: fileWatcher, window: 1).
+[2022-03-24 14:06:56.045] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-03-24 14:06:56.077] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-03-24 14:06:56.927] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-03-24 14:06:57.384] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-03-24 14:06:57.704] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-03-24 14:06:57.970] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-03-24 14:06:58.358] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-03-24 14:06:58.358] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-03-24 14:06:58.358] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-03-24 14:06:58.358] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-03-24 14:07:00.820] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-03-24 14:07:00.904] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.9b96c6c3-73c7-4d38-b583-d42a07a6ed34: ms-toolsai.jupyter-keymap
+[2022-03-24 14:07:00.909] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-03-24 14:07:00.911] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-03-24 14:07:03.965] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.6
+[2022-03-24 14:07:04.357] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.e6adefe8-fd84-4d0e-95fa-86e0d3683b79: ms-toolsai.jupyter-renderers
+[2022-03-24 14:07:04.363] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-03-24 14:07:04.365] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-03-24 14:07:06.177] [sharedprocess] [info] Downloaded extension: ms-python.python /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.2.1924087327
+[2022-03-24 14:07:06.971] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.2.1030672458
+[2022-03-24 14:07:07.794] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.2b739c16-92e3-4fb8-bf42-1c19500c987c: ms-toolsai.jupyter
+[2022-03-24 14:07:07.806] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-toolsai.jupyter-2022.2.1030672458
+[2022-03-24 14:07:07.809] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-03-24 14:07:08.550] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.1271ed22-6c09-472a-a329-40266ef994b4: ms-python.python
+[2022-03-24 14:07:08.560] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-python.python-2022.2.1924087327
+[2022-03-24 14:07:08.563] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-03-24 14:07:13.380] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.3.3
+[2022-03-24 14:07:15.902] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.f15543ba-ea87-4b81-9157-17a0f3154f33: ms-python.vscode-pylance
+[2022-03-24 14:07:15.917] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-python.vscode-pylance-2022.3.3
+[2022-03-24 14:07:15.918] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-03-24 14:07:15.925] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-03-24 14:07:15.925] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-03-24 14:07:15.925] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-03-24 14:07:15.925] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-03-24 14:07:15.925] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-03-24 14:15:56.788] [sharedprocess] [info] Worker process with pid 33192 terminated normally (type: fileWatcher, window: 1).
+[2022-03-24 14:15:57.812] [sharedprocess] [info] Starting worker process with pid 33526 (type: fileWatcher, window: 1).

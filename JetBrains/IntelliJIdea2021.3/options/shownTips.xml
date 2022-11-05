@@ -1,0 +1,12 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CodeCompletion.html" value="1648088118906" />
+        <entry key="Emmet.html" value="1647654464309" />
+        <entry key="NavigateBetweenErrors.html" value="1647431805609" />
+        <entry key="QuickJavaDoc.html" value="1647832433531" />
+      </map>
+    </option>
+  </component>
+</application>

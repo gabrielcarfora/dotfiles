@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1662524404595" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1662524488296" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1662524437438" />
+    </e>
+    <e n="RiderLoadProjectAction">
+      <i c="1" l="1662524444682" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="1" l="1662524406546" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1662524704162" />
+    </e>
+    <e n="TemplateProjectPropertiesAction">
+      <i c="1" l="1662524396916" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="2" l="1662524486976" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="2" l="1662524682863" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1662524458401" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1662524438460" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1662524878500" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1662524393474" />
+    </e>
+  </component>
+</application>

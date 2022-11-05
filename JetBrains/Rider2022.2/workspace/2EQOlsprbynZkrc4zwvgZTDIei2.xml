@@ -1,0 +1,102 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="AGVwebAPP" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.AGVwebAPP/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AGVwebAPP" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AGVwebAPP" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebApplication1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunToolbarSettings">
+    <option name="slotOrder">
+      <option value="6847de03-c7e8-4a8b-938b-57fac8df8bf1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3400000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="5" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="NuGet" order="10" />
+      <window_info anchor="bottom" id="Endpoints" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="13" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="311" width="428" height="474" key="FileChooserDialogImpl" timestamp="1662524764823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="311" width="428" height="474" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1662524764823" />
+    <state x="449" y="188" key="SettingsEditor" timestamp="1662524878559">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="188" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1662524878559" />
+  </component>
+</project>

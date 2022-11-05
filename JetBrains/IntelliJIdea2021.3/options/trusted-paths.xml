@@ -1,0 +1,28 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/DSA_2022_Assign1_v7" value="true" />
+        <entry key="$USER_HOME$/DSA_2022_Assign1_v7/src" value="true" />
+        <entry key="$USER_HOME$/DSA_2022_Assign1_v7/src1" value="true" />
+        <entry key="$USER_HOME$/Desktop/DSA_2022_Assign1_v7/src" value="true" />
+        <entry key="$USER_HOME$/Documents/A2/DSA_Assignment2_2022" value="true" />
+        <entry key="$USER_HOME$/Documents/A2/DSA_Assignment2_2022/src" value="true" />
+        <entry key="$USER_HOME$/Documents/Assignment 1 DSE" value="true" />
+        <entry key="$USER_HOME$/Documents/Assignment 1 DSE/src" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/test" value="true" />
+        <entry key="$USER_HOME$/OneDrive/Assignment 1 DSE/src" value="true" />
+        <entry key="$USER_HOME$/TwoThreeFour/src" value="true" />
+        <entry key="$USER_HOME$/bambooleafwebapp/AGVwebAPP/WebApplication1" value="true" />
+        <entry key="/tmp/Marker.java" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/OneDrive/Assignment 1 DSE" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,139 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26SzVBJpbThxhCTx8T1YsiWmc8R">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26aGoBGrMBAJkMJ5KxCmX1g6Kyg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26g5X1NCUoyvQrdqqSthVd3CtMy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26g6eiVMvjAX6Cgbt5V2H48pFb7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26g6pHfaVwBkKJRA3rH237xOEH9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26oS85f8igb0bKfLkrzIfrubpbL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26oSC2lNZ5h5PtjRRB1lsyHXOO7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DET7YMWqQqoZRS2QbHl4nDwCXu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Dpi4tHJ0Kx1LbvQjkmeSO8egqi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EQNbQmq41TamSnjLnFiOyDH9iP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EkTT4DjS4vajhdNh0wbh2oSORV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FHipNq1qKhGXeAObN8jgCxATm6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FHjEQHLH01O4V8hCjY2leTq1IH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gq1hqUZPbqe04B7ML1r3QwfpCZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gq1lObuG7KCuecZIXcLZck32dM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FindSplitterProportion" value="0.33016106" />
+    <property name="InstalledPluginsSearchHistory" value="incre&#10;incr&#10;vimidea&#10;vimide&#10;vimid" />
+    <property name="JUnit.Splitter.Proportion" value="0.011382114" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="KEYMAP" value="increase font" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:theme&#10;solarized&#10;solariz&#10;sola&#10;ideavim" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NextRunPlatformUpdateBuild" value="IU-213.7172.25/2021.3.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3.3" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="increase font&#10;memory&#10;change memory setti&#10;change mem" />
+    <property name="appcds.runOnSecondStart" value="IU-213.6777.52-66f8cabe4e308aff5cc629581e048b1d79618562ab2c5edb59fa0566ff3839e2" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IU-213.6777.52" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Existing sources" />
+    <property name="debug.configuration.alternate.action.ad" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="evlsprt3.213" value="7" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/A2/DSA_Assignment2_2022/src&#10;/home/gabriel/Documents/A2/DSA_Assignment2_2022/testfiles&#10;/home/gabriel/Documents/A2/DSA_Assignment2_2022&#10;/home/gabriel/Desktop/DSA_2022_Assign1_v7/modules/javafx-sdk-18.0.2/lib&#10;/home/gabriel/Desktop/DSA_2022_Assign1_v7/src&#10;/home/gabriel/DSA_2022_Assign1_v7/src&#10;/home/gabriel/DSA_2022_Assign1_v7&#10;/home/gabriel/DSA_2022_Assign1_v7/modules&#10;/home/gabriel/DSA_2022_Assign1_v7/modules/hamcrest-2.2.jar&#10;/home/gabriel/DSA_2022_Assign1_v7/src1&#10;/home/gabriel/bambooleafwebapp/AGVwebAPP/WebApplication1&#10;/home/gabriel/TwoThreeFour/src&#10;/home/gabriel/OneDrive/Assignment 1 DSE/src&#10;/home/gabriel/Documents/Assignment 1 DSE/src&#10;/home/gabriel/Documents/Assignment 1 DSE&#10;/home/gabriel/Documents/Assignment 1 DSE/src/marking/Marker.java&#10;/home/gabriel/OneDrive/2022/Assignment 1/A1Students/src/marking/Marker.java" />
+    <property name="file.gist.reindex.count" value="66" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="gotit.previous.run" value="IU-213.6777.52" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ideavim.statistics.timestamp" value="1664155598959" />
+    <property name="ift.learning.panel.opened.in" value="213.6777.52" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ6777.52" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last.imported.location" value="$USER_HOME$/DSA_2022_Assign1_v7/modules/hamcrest-2.2.jar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/A2/DSA_Assignment2_2022/src" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1667101422176" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="project.wizard.template" value="Web" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-213.6777.52" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="src-history" project-path="$USER_HOME$/Desktop/DSA_2022_Assign1_v7/src" last-access-time="1664266017336" />
+    </command-history-files>
+  </component>
+</application>

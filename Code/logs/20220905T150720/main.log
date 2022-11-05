@@ -1,0 +1,10 @@
+[2022-09-05 15:07:20.536] [main] [info] window#load: attempt to load window (id: 1)
+[2022-09-05 15:07:20.547] [main] [info] update#setState idle
+[2022-09-05 15:07:20.590] [main] [info] ExtensionHostStarterWorker created
+[2022-09-05 15:07:21.527] [main] [info] window#load: window reported ready (id: 1)
+[2022-09-05 15:07:21.679] [main] [info] Starting extension host with pid 836 (fork() took 13 ms).
+[2022-09-05 15:07:21.679] [main] [info] ExtensionHostStarterWorker.start() took 25 ms.
+[2022-09-05 15:07:50.548] [main] [info] update#setState checking for updates
+[2022-09-05 15:07:50.554] [main] [info] update#setState available for download
+[2022-09-05 16:28:42.130] [main] [info] Waiting for extension host with pid 836 to exit.
+[2022-09-05 16:28:42.146] [main] [info] Extension host with pid 836 exited with code: 0, signal: null.

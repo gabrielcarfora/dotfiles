@@ -1,0 +1,21 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/bambooleafwebapp/AGVwebAPP/AGVwebAPP.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/bambooleafwebapp/AGVwebAPP/WebApplication1/WebApplication1.csproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

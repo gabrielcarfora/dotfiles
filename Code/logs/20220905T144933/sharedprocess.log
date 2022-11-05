@@ -1,0 +1,23 @@
+[2022-09-05 14:49:37.136] [sharedprocess] [info] Starting worker process with pid 83546 (type: fileWatcher, window: 1).
+[2022-09-05 14:49:40.107] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-09-05 14:49:40.110] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-05 14:49:40.113] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-09-05 14:49:41.016] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-09-05 14:49:42.938] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2022-09-05 14:49:43.193] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.e3548f72-5e55-4e92-8629-5814a25df91a: ms-toolsai.jupyter-renderers
+[2022-09-05 14:49:43.199] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-09-05 14:49:43.202] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-09-05 14:49:43.207] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-09-05 14:49:45.939] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-09-05 14:49:45.940] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-05 14:49:48.375] [sharedprocess] [info] Downloaded extension: ms-python.python /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.4.1
+[2022-09-05 14:49:49.283] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/gabriel/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.1
+[2022-09-05 14:49:53.043] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.f52d033d-67e6-4fdc-94b3-5a6f6a3bf103: ms-python.python
+[2022-09-05 14:49:53.066] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-python.python-2022.4.1
+[2022-09-05 14:49:53.070] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-09-05 14:49:53.080] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-09-05 14:49:56.081] [sharedprocess] [info] Extracted extension to /home/gabriel/.vscode/extensions/.80e71f9f-ab4b-4d6b-8acd-8325ea272887: ms-python.vscode-pylance
+[2022-09-05 14:49:56.091] [sharedprocess] [info] Renamed to /home/gabriel/.vscode/extensions/ms-python.vscode-pylance-2022.5.1
+[2022-09-05 14:49:56.093] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-05 14:49:56.097] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-09-05 15:04:23.859] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

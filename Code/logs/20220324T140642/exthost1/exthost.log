@@ -1,0 +1,27 @@
+[2022-03-24 14:06:44.979] [exthost] [info] Extension host with pid 33157 started
+[2022-03-24 14:06:45.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-24 14:06:45.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-24 14:06:45.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-24 14:06:45.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-24 14:06:45.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-24 14:06:45.372] [exthost] [info] Eager extensions activated
+[2022-03-24 14:06:45.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 14:06:45.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 14:07:16.367] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+[2022-03-24 14:07:16.956] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-03-24 14:07:16.958] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-03-24 14:07:17.777] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2022-03-24 14:15:56.768] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 14:15:56.788] [exthost] [info] Extension host with pid 33157 exiting with code 0
+[2022-03-24 14:15:58.801] [exthost] [info] Extension host with pid 33525 started
+[2022-03-24 14:15:58.801] [exthost] [info] Skipping acquiring lock for /home/gabriel/.config/Code/User/workspaceStorage/f7eb7fff789a36617f3981c4a0ffa87a.
+[2022-03-24 14:15:59.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-24 14:15:59.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-24 14:15:59.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-24 14:15:59.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-03-24 14:15:59.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-24 14:15:59.104] [exthost] [info] Eager extensions activated
+[2022-03-24 14:15:59.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 14:15:59.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 15:21:29.469] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 15:21:29.478] [exthost] [info] Extension host with pid 33525 exiting with code 0

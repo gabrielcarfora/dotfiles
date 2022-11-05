@@ -1,0 +1,16 @@
+[Info  - 2:07:18 pm] (33235) Pylance language server 2022.3.3 (pyright dd7420c5) starting
+[Info  - 2:07:18 pm] (33235) Server root directory: /home/gabriel/.vscode/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 2:08:56 pm] (33235) No pyproject.toml file found.
+[Info  - 2:08:56 pm] (33235) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 2:08:56 pm] (33235) stubPath typings is not a valid directory.
+[Info  - 2:08:56 pm] (33235) Assuming Python version 3.10
+[Info  - 2:08:56 pm] (33235) Assuming Python platform Linux
+[Warn  - 2:08:56 pm] (33235) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:08:56 pm] (33235) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:08:56 pm] (33235) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:08:56 pm] (33235) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:08:56 pm] (33235) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:08:56 pm] (33235) Searching for source files
+[Info  - 2:08:56 pm] (33235) No source files found.
+[Info  - 2:08:56 pm] (33235) Background analysis(1) root directory: /home/gabriel/.vscode/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 2:08:56 pm] (33235) Background analysis(1) started

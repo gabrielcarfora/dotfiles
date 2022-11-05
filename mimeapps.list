@@ -1,0 +1,10 @@
+[Default Applications]
+inode/directory=xfce4-file-manager.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_usr_lib_eclipse_.desktop
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop
+
+[Added Associations]
+inode/directory=xfce4-file-manager.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;

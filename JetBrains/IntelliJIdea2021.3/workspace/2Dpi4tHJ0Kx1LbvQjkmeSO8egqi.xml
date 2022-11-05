@@ -1,0 +1,383 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="src1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/Edge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1826">
+              <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testing/GraphTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3806">
+              <caret line="184" column="47" selection-start-line="184" selection-start-column="47" selection-end-line="184" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1664267893279" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="45" lastUsed="1664514998465" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>println</find>
+      <find>[Node{elevation=0.0, position=Vector{x = 30.0, y = 30.0}}, Node{elevation=0.0, position=Vector{x = 30.0, y = 90.0}}, Node{elevation=0.0, position=Vector{x = 30.0, y = 150.0}}, Node{elevation=0.1, position=Vector{x = 30.0, y = 210.0}}, Node{elevation=0.3, position=Vector{x = 30.0, y = 270.0}}, Node{elevation=0.3</find>
+      <find>queue</find>
+      <find>printl</find>
+      <find>compa</find>
+      <find>x = 30.0, y = 90.0</find>
+      <find>dept</find>
+      <find>8528137423857</find>
+      <find>390</find>
+      <find>comp</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Testing/GraphTest.java" />
+      <option value="$PROJECT_DIR$/Graph/Edge.java" />
+      <option value="$PROJECT_DIR$/Graph/Graph.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="src-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 34m 39s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 35m 01s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 35m 45s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 36m 36s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 37m 13s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 38m 24s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 39m 14s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 40m 30s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 40m 52s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphTest_dijkstrasSearch - 2022.09.30 at 15h 42m 08s.xml">
+      <configuration name="GraphTest.dijkstrasSearch" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77318000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13373306" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.4997332" side_tool="true" weight="0.2668919" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.2668919" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5002668" weight="0.3296332" />
+      <window_info active="true" anchor="bottom" x="44" y="880" width="1876" height="200" id="Problems View" order="9" type="FLOATING" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3296332" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="Debug" order="3" weight="0.23776042" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.49321502" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32094595" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.3298611" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Event Log</value>
+      <value>TODO</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="259" width="378" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1664502149434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="259" width="378" height="577" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1664502149434" />
+    <state x="703" y="400" width="507" height="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1664238749078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="703" y="400" width="507" height="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1664238749078" />
+    <state x="1171" y="311" width="749" height="474" key="FileChooserDialogImpl" timestamp="1664156967601">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1171" y="311" width="749" height="474" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1664156967601" />
+    <state width="1874" height="248" key="GridCell.Tab.0.bottom" timestamp="1665622511759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1665622511759" />
+    <state width="1874" height="248" key="GridCell.Tab.0.center" timestamp="1665622511759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1665622511759" />
+    <state width="1874" height="248" key="GridCell.Tab.0.left" timestamp="1665622511759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1665622511759" />
+    <state width="1874" height="248" key="GridCell.Tab.0.right" timestamp="1665622511759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1665622511759" />
+    <state width="455" height="682" key="GridCell.Tab.1.bottom" timestamp="1664499242149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="455" height="682" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1664499242149" />
+    <state width="455" height="682" key="GridCell.Tab.1.center" timestamp="1664499242149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="455" height="682" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1664499242149" />
+    <state width="455" height="682" key="GridCell.Tab.1.left" timestamp="1664499242149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="455" height="682" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1664499242149" />
+    <state width="455" height="682" key="GridCell.Tab.1.right" timestamp="1664499242149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="455" height="682" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1664499242149" />
+    <state x="530" y="352" width="860" height="497" key="NewModule_or_Project.wizard" timestamp="1664156058974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="530" y="352" width="860" height="497" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1664156058974" />
+    <state x="449" y="188" width="1028" height="835" key="SettingsEditor" timestamp="1664163717933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="188" width="1028" height="835" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1664163717933" />
+    <state x="959" y="25" width="962" height="1056" key="dock-window-1" timestamp="1664263230655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="959" y="25" width="962" height="1056" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1664263230655" />
+    <state x="622" y="256" key="run.anything.popup" timestamp="1664517821332">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="256" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1664517821332" />
+    <state x="623" y="226" width="672" height="686" key="search.everywhere.popup" timestamp="1664515759190">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="226" width="672" height="686" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1664515759190" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GUI/GraphGUIController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/GraphGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/AssignmentMarker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-18-openjdk!/java.base/java/io/PrintStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5822">
+          <caret line="345" column="16" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/GraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3806">
+          <caret line="184" column="47" selection-start-line="184" selection-start-column="47" selection-end-line="184" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>17</last-edited>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DSA_2022_Assign1_v7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JavaFX</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

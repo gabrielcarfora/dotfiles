@@ -1,0 +1,148 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Marker.java" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1647832570143" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/Documents/Assignment 1 DSE/src/marking/Marker.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Marker.java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Marker.java" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Marker.java-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="523000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32990196" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="File Transfer" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32990196" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Flow" order="7" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="documentation.v2" order="7" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Event Log</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="380" width="702" height="336" key="#Notifications" timestamp="1647832490200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="606" y="380" width="702" height="336" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1647832490200" />
+    <state x="433" y="214" width="1053" height="749" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647832917450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="433" y="214" width="1053" height="749" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1647832917450" />
+    <state x="692" y="356" width="529" height="407" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647832914955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="356" width="529" height="407" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1647832914955" />
+    <state x="743" y="311" width="428" height="474" key="FileChooserDialogImpl" timestamp="1647832570076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="311" width="428" height="474" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1647832570076" />
+    <state width="1858" height="308" key="GridCell.Tab.0.bottom" timestamp="1647832952221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1647832952221" />
+    <state width="1858" height="308" key="GridCell.Tab.0.center" timestamp="1647832952221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="308" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1647832952221" />
+    <state width="1858" height="308" key="GridCell.Tab.0.left" timestamp="1647832952221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="308" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1647832952221" />
+    <state width="1858" height="308" key="GridCell.Tab.0.right" timestamp="1647832952221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="308" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1647832952221" />
+    <state x="623" y="262" width="672" height="686" key="search.everywhere.popup" timestamp="1647832935081">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="262" width="672" height="686" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1647832935081" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/OneDrive/2022/Assignment 1/A1Students/src/marking/Marker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Assignment 1 DSE/src/marking/Marker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

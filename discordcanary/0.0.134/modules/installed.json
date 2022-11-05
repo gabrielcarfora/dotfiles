@@ -1,0 +1,23 @@
+{
+  "discord_desktop_core": {
+    "installedVersion": 96
+  },
+  "discord_erlpack": {
+    "installedVersion": 96
+  },
+  "discord_spellcheck": {
+    "installedVersion": 96
+  },
+  "discord_utils": {
+    "installedVersion": 96
+  },
+  "discord_voice": {
+    "installedVersion": 96
+  },
+  "discord_game_utils": {
+    "installedVersion": 96
+  },
+  "discord_rpc": {
+    "installedVersion": 96
+  }
+}

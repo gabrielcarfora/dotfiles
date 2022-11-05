@@ -1,0 +1,6 @@
+2022/09/07-13:56:28.351 567e Reusing MANIFEST /home/gabriel/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/07-13:56:28.352 567e Recovering log #43
+2022/09/07-13:56:28.352 567e Reusing old log /home/gabriel/.config/discord/Local Storage/leveldb/000043.log 
+2022/09/08-11:14:54.836 6d16 Level-0 table #47: started
+2022/09/08-11:14:54.868 6d16 Level-0 table #47: 1106103 bytes OK
+2022/09/08-11:14:54.872 6d16 Delete type=0 #43
